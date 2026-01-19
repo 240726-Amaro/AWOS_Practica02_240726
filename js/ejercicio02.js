@@ -231,8 +231,8 @@ console.warn("7. NULL (Nulo)");
 
 let isPremiumUser;
 let isUserLoged;
-var todayLogin = todayDate;
 var todayDate = new Date();
+var lastLogin = todayDate;
 let isNewUser;
 
 console.log(`Las variables del usuario son:
