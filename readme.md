@@ -4,7 +4,7 @@
 En la siguiente practica se realizaron pequeños ejercicios de repaso para comprender la sintaxis de Java Script para el manejo de variables, procesos y memoria en el contexto del desarrollo web orientado a servicios.
 </p>
 
----
+
 ### Consideraciones:
 
 <p align="justify">
